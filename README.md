@@ -156,12 +156,8 @@ npm run dev
 
 ## 📞 Contact
 
-<<<<<<< HEAD
 [Tunahan Yaşar](https://github.com/tunahanyasar)
 
 * GitHub: [@tunahanyasar](https://github.com/tunahanyasar)
 * LinkedIn: [Tunahan Yaşar](https://www.linkedin.com/in/tunahan-yasar/)
-=======
-- [GitHub: tunahanyasar](https://github.com/tunahanyasar)
-- [LinkedIn: tunahanyasar](https://www.linkedin.com/in/tunahan-yasar/) 
->>>>>>> 5ef10922a3a3f072c492301f68856dba9d80c721
+

@@ -23,7 +23,7 @@ Canlı web sitesini ziyaret edin : [Sport Center | Reactjs](https://sport-center
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/tunahanyasar/Patika-Apps.git
+git clone https://github.com/tunahanyasar/sport-center-reactjs.git
 ```
 2. Proje klasörüne gidin:
 ```bash
@@ -159,4 +159,4 @@ npm run dev
 ## 📞 İletişim
 
 - [GitHub: tunahanyasar](https://github.com/tunahanyasar)
-- [LinkedIn: tunahanyasar](https://www.linkedin.com/in/tunahanyasar/)
+- [LinkedIn: tunahanyasar](https://www.linkedin.com/in/tunahan-yasar/)

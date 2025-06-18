@@ -2,7 +2,7 @@
 
 [🇹🇷 Click for Turkish README](./README.tr.md)
 
-*Created: April 8, 2025*
+*Created on: April 8, 2025*
 
 - This project was developed as the **Week-9 / React - Sport Center** assignment for the Patika Frontend Bootcamp.
 - It is a rewrite of the Week 8 vanilla JS project using React component architecture.

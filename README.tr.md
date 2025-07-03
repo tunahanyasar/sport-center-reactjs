@@ -4,7 +4,9 @@
 
 *Oluşturulma Tarihi : 8 Nisan 2025*
 
-- Bu proje, Patika Frontend Bootcamp'i kapsamında **Hafta-9 / React - Sport Center** ödevi olarak geliştirilmiştir.
+- Bu proje, Patika Frontend Bootcamp'i kapsamında **Hafta-9 / Final Projesi 1.1 | React - Sport Center** ödevi olarak geliştirilmiştir. [@sport-center-vanillajs](https://github.com/tunahanyasar/sport-center-vanillajs) adresindeki orijinal projemin React.js ile yeniden kodlanmış halidir.
+- Patika Frontend Bootcamp'i kapsamında **Hafta-9 / React - Sport Center** ödevi olarak geliştirilmiştir.
+- 
 - Hafta 8'de yapılan vanilla JS projesinin React component mimarisiyle yeniden yazılmış halidir.
 - Modern, tamamen responsive ve kullanıcı dostu bir fitness merkezi web uygulamasıdır.
 - **React 19**, **Vite**, **HTML5**, **CSS3**, **Bootstrap 5** ve **FontAwesome** kullanılmıştır.

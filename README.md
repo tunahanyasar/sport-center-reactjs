@@ -4,7 +4,7 @@
 
 *Created on: April 8, 2025*
 
-- This project was developed as the **Week-9 / React - Sport Center** assignment for the Patika Frontend Bootcamp.
+- This project was developed as the **Week-9 / Final Project 1.1 | React - Sport Center** assignment for the Patika Frontend Bootcamp. It is a reimplementation of my original project at [@sport-center-vanillajs](https://github.com/tunahanyasar/sport-center-vanillajs) using React.js.
 - It is a rewrite of the Week 8 vanilla JS project using React component architecture.
 - A modern, fully responsive, and user-friendly fitness center web application.
 - Built with **React 19**, **Vite**, **HTML5**, **CSS3**, **Bootstrap 5**, and **FontAwesome**.
